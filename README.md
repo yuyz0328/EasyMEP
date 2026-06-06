@@ -32,7 +32,7 @@ EasyMEP relies on a fixed-scale imaging setup, referred to as the **MEP Board**,
 - black-and-white corner markers used for perspective rectification
 - a recommended camera-to-board distance of approximately 130 cm to reduce imaging error
 
-![MEP Board Design](E:\kaozhongban\ver2.2\v2.2_docker_pydantic=2.7.4\GitHub界面\images\design.jpg)
+![MEP Board Design](images\design.jpg)
 
 ![MEP Board](images/mep-board.jpg)
 
