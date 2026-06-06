@@ -31,8 +31,8 @@ EasyMEP 能够实现的玉米果穗性状检测依赖固定的比例尺，因此
 - 其凹槽用于固定玉米果穗，避免复杂地形导致果穗自由滚动；
 - 四角的黑白特征点用于图像的畸变矫正；
 - 为降低拍摄误差，摄像头距离板面 130 cm 处为宜。
-
-![MEP Board Design](images/Design.jpg)
+S
+![MEP Board Design](images/design.jpg)
 
 ![MEP Board](images/mep-board.jpg)
 
