@@ -39,5 +39,7 @@ EasyMEP relies on a fixed-scale imaging setup, referred to as the **MEP Board**,
 ## Notes
 
 - The public demo is intended for lightweight testing with sample images.
+- The EasyMEP function is currently deployed on a CPU server, so its processing speed is relatively slow. It will be migrated to a GPU server for service in the future.
+- To reduce server load, users should not upload more than 1 GB of images at one time.
 - When uploading images, landscape orientation is recommended. Small rotations do not affect EasyMEP corner detection.
 - For further information about EasyMEP, please contact `yuyz@webmail.hzau.edu.cn`.
